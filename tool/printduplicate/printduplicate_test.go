@@ -1,4 +1,4 @@
-package printdistinct
+package printduplicate
 
 import (
 	"testing"
